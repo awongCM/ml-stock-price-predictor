@@ -101,6 +101,6 @@ ENV/
 .mypy_cache/
 
 cache/
-models/
+/models/
 .venv/
 *.parquet
